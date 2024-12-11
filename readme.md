@@ -1,11 +1,9 @@
 # Fundamentos de Arquitetura de Microsservições (Microservices)
-Eduardo Felipe Gomes
+***Eduardo Felipe Gomes***
 
 ## Seção 1: Introdução
 
 #### 1. Porque microssserviços?
-
----
 
 ## Seção 2: 
 
@@ -15,16 +13,16 @@ Eduardo Felipe Gomes
 
 #### 4. Integrando Serviços
 
-## Seção 3: 
+## Seção 3: Plataforma
 
-## Seção 4: 
+#### 5. Visão geral
 
-### 2.
----
----
+#### 6. Componentes
 
+#### 7. Serviços de foundation
 
-### 3.
+## Seção 4: Operação
 
+#### 8. DevOps
 
-
+#### 9. Estratégias de deploy
