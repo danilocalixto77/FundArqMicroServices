@@ -5,6 +5,8 @@
 
 #### 1. Porque microssserviços?
 
+Iniciando......
+
 ## Seção 2: 
 
 #### 2. Escala e distribuição
@@ -27,5 +29,6 @@
 
 #### 9. Estratégias de deploy
 
+---
 ---
 ---
