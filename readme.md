@@ -5,7 +5,16 @@
 
 #### 1. Porque microssserviços?
 
-Iniciando......
+Por que usar microserviços:
+
+- Eliminação de acomplamentos.
+- 
+
+- Sistemas distribuídos. 
+- Limitação entre os serviços, com a definição de onde ele iniciar e onde termina.
+-
+    
+
 
 ## Seção 2: 
 
