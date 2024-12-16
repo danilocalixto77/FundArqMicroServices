@@ -12,9 +12,6 @@ Por que usar microserviços:
 
 - Sistemas distribuídos. 
 - Limitação entre os serviços, com a definição de onde ele iniciar e onde termina.
--
-    
-
 
 ## Seção 2: 
 
@@ -38,6 +35,3 @@ Por que usar microserviços:
 
 #### 9. Estratégias de deploy
 
----
----
----
