@@ -10,6 +10,11 @@ Palavras chaves:
 - Por que usar microserviços:
 - Monolíto
 - Distribuídos
+- Arquitetura de microssserviços
+- Custo 
+- Escalabilidade
+- Desempenho
+- Compartilhamento
 
 
 
