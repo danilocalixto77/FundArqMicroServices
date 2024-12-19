@@ -16,6 +16,10 @@ Palavras chaves:
 - Desempenho
 - Compartilhamento
 
+Delimitando:
+
+- **Domain-Driven Design**: Atacando a **complexidade** do software através de **modelos**.
+
 
 
 
