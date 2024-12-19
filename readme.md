@@ -5,17 +5,14 @@
 
 #### 1. Porque microssserviços?
 
-Por que usar microserviços:
+Palavras chaves:
 
-- Eliminação de acomplamentos.
-- 
+- Por que usar microserviços:
+- Monolíto
+- Distribuídos
 
-- Sistemas distribuídos. 
-- Limitação entre os serviços, com a definição de onde ele iniciar e onde termina.
 
----
 
----
 
 ---
 
