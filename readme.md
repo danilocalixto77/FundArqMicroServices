@@ -21,13 +21,29 @@ Delimitando:
 - **Domain-Driven Design**: Atacando a **complexidade** do software através de **modelos**.
 
 
-
-
----
-
-## Seção 2: 
+## Seção 2: Arquitetura
 
 #### 2. Escala e distribuição
+
+- Formas de escalar!
+- Vertical: adicionando recursos ao serviço.
+- Horizontal: adicionando instâncias do serviço.
+- Impacto direto no custo! (Autoscaling)
+
+- Escalar database?
+- **Database** é o ponto de **sobrecarga** do **serviço**.
+- Opções: **escalar vertical** ou criar um **cluster** (caro)?
+- **Consultas** exigem **mais recursos**.
+
+CQRS (**Command QUery Responsibility Segregation**)
+
+**Dividindo Responsabilidades**
+Comandos divididos de consultas na base de dados.
+
+**Modelos diferentes**
+
+Dependendo da operação, o serviço pode interagir com **modelos diferentes** (modelo de consultas e modelo de comando)
+
 
 #### 3. Multitenancy
 
