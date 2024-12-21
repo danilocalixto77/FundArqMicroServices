@@ -61,10 +61,9 @@ São três formas:
 
 - **Particionando** (discriminador).
 
-
-
-
 #### 4. Integrando Serviços
+
+    Próxima aula...
 
 ## Seção 3: Plataforma
 
