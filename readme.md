@@ -51,6 +51,17 @@ Dependendo da operação, o serviço pode interagir com **modelos diferentes** (
 
 - Custo!
 
+E o Database?
+
+São três formas:
+
+- **Bancos** separados (nstâncias separadas).
+
+- **Schemas** separados.
+
+- **Particionando** (discriminador).
+
+
 
 
 #### 4. Integrando Serviços
