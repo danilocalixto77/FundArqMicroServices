@@ -47,6 +47,12 @@ Dependendo da operação, o serviço pode interagir com **modelos diferentes** (
 
 #### 3. Multitenancy
 
+- vários clientes compartilhando o mesmo serviço, ganhando um menor custo.
+
+- Custo!
+
+
+
 #### 4. Integrando Serviços
 
 ## Seção 3: Plataforma
