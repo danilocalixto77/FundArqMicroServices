@@ -61,9 +61,17 @@ São três formas:
 
 - **Particionando** (discriminador).
 
+- **Tenant** ???
+
 #### 4. Integrando Serviços
 
-    Próxima aula...
+- Mensagens
+
+- **Serviço** utiliza **publicação** e **subscrições** de **eventos** para comunicação **assícrona**
+
+    Publicar -> Fila -> Assinar
+
+
 
 ## Seção 3: Plataforma
 
@@ -78,4 +86,11 @@ São três formas:
 #### 8. DevOps
 
 #### 9. Estratégias de deploy
+
+
+
+
+
+
+
 
