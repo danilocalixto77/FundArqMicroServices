@@ -71,13 +71,47 @@ São três formas:
 
     Publicar -> Fila -> Assinar
 
+- **REST**
 
+- **Serviço** utiliza camada **HTTP** para integração de forma **síncrona**
+
+    GET | POST | PUT | DELETE
+
+Recomendação utilização de serviços **assincronos** e reservando os **síncronos** para exceções, utilizando com muita cautela.
 
 ## Seção 3: Plataforma
 
 #### 5. Visão geral
 
+Framework
+
+Plataforma componente de infraestrutura.
+
+Processo de Desenvolvimento
+
 #### 6. Componentes
+
+**API Manager**
+(API Gateway)
+
+- **Ponto único** de acssso a **todas** as **APIs**.
+
+- **Filtragem** de dados e **direcionamento**.
+
+- Integração com **autenticação**.
+
+**Authentication Service** (Autenticação)
+
+- **Identifica** o usuário no **sistema**.
+
+- **Provê infomações** do usuário.
+
+
+
+
+
+
+
 
 #### 7. Serviços de foundation
 
