@@ -106,20 +106,97 @@ Processo de Desenvolvimento
 
 - **Provê infomações** do usuário.
 
+**Authorization Service** (Autorização)
+
+- **Verifica permissõs** do usuário no **sistema**.
+
+- Gerecia papeis e **recursos**.
+
+**Load Balance** (Regulador de carga)
+
+- **Administra** a **carga** de requisições entre as **instâncias** dos **serviços**.
+
+**Servcice Discovery** (Identificação de serviços)
+
+- **Registra** os serviços **disponíveis**.
+
+- **Centraliza** a informação de **serviços** X **instâncias** (IPs).
+
+**Service Config** (Configurações dos serviços)
+
+**Centraliza** configurações dos **serviços**:
+
+- **Conexões de bancos de dados**.
+- **Certificados públicos**.
 
 
+**Monitoring & Alert** (Monitoramento e Alertas)
 
+- Prove **dados** em **tempo real**.
+- Utiliza **endpoints** de health check.
+- **Processa** e **refina** informações de log.
+- Apresenta as **informações** em **dashboards**.
 
+**Container Orchestration** (Orquestração de containers)
 
+- **Gerencia** as **instâncias** dos serviços.
+- Faz o **autoscaling** e **downscaling**.
 
+**Message Broker** (Mensageria)
+
+- **Centraliza o recebimento** e **sinalização de eventos**.
+- **Gerencia as filas** e **entregas de mensagens**.
+
+**Storage** (Armazenamento)
+
+- Serviço para **armazenamento** de arquivos como imagens, vídeos e documentos.
 
 #### 7. Serviços de foundation
+
+Serviços básicos:
+
+-- Envio de e-mail, SMS, WA
+
+- Agendamente de tarefas (JOB)
+
+- Relatórios
 
 ## Seção 4: Operação
 
 #### 8. DevOps
 
+Ciclo DevOps:
+
+    Plain -> Code -> Build -> Test -> Deploy -> Integrate -> Operate -> Monitoramento
+
+E após conclusão do clico ele ser reiniciar passando por acada etapa novamente.
+
+CI - Continuos Integration
+
+    Build [Auto]-> Unit Test [Auto]-> Deploy Stage [Aauto]-> Acceptance Tests 
+
+CD - Continuous Delivery
+
+    Build [Auto]-> Unit Test [Auto]-> Deploy Stage [Aauto]-> Acceptance Tests [Manual] -> Deploy Production
+
+CD - Continuous Deployment
+
+    Build [Auto]-> Unit Test [Auto]-> Deploy Stage [Aauto]-> Acceptance Tests [Auto] -> Deploy Production
+
 #### 9. Estratégias de deploy
+
+Blue / Green
+
+Canary
+
+Expansão e contração:
+
+- Início: Implementa a refatoração **[Expansão]**
+- Trnsição: Período de transição do velho para o novo
+- Fim: Refatoração completa **[Contração]**
+
+
+
 
 
 
